@@ -2,7 +2,7 @@ Hi 👋 My name is Nateetorn puangbubpa
 =====================================
 
 * ✉️  You can contact me at [nateetorn13e@outlook.com](mailto:nateetorn13e@outlook.com)
-* 🧠  I'm learning Flask,Express.js
+* 🧠  I'm learning React,Express.js
 
 ### Skills
 
