@@ -1,4 +1,4 @@
-Hi 👋 My name is Nateetorn puangbubpa
+Hi 👋 My name is Nateetorn Puangbubpa
 =====================================
 
 * ✉️  You can contact me at [nateetorn13e@outlook.com](mailto:nateetorn13e@outlook.com)
