@@ -5,7 +5,6 @@ Hi 👋 My name is Nateetorn Puangbubpa
 * 🧠  I'm learning React,Express.js
 * Projects in which I am involved
   - https://www.yuusriracha.com/
-  - https://propverifine.com/
   - https://toyota-material-handling.co.th/
   - https://birthmarkth.com/website (mobile version)
 
